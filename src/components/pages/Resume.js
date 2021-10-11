@@ -196,16 +196,6 @@ class Resume extends Component {
                         </div>
                     </div>
                 </section>
-                <footer className="footer">
-                    <div className="container-fluid">
-                        <div className="row">
-                            <div className="col-lg-12 text-center">
-                                <div className="copyRight">&copy; 2021 All Rights Reserved By <a
-                                    href="http://themewar.com" target="_blank">ThemeWar</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
             </div>
         );
     }

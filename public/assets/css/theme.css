@@ -1086,7 +1086,7 @@
 
 
 #Grid .mix{
-    display: none;
+    /*display: none;*/
 }
 .filterUL{
     position: relative;
